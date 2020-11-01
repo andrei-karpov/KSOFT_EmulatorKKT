@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonForm.ЭмуляторKSOFT_ДополнительныйЧек" id="170215aa-a04c-4956-8c13-9c83d52c257a" configVersion="46a877d39cbb8282fda21638666372e699487c60"/>
+		<Metadata name="CommonForm.ЭмуляторKSOFT_ДополнительныйЧек.Form" id="170215aa-a04c-4956-8c13-9c83d52c257a.0" configVersion="36619f335f36e3c93d2705611fff392fe1a934af"/>
+		<Metadata name="CommonForm.ЭмуляторKSOFT_ПредварительныйЧек" id="e1042e8c-1363-4fbf-a088-44450b71386d" configVersion="9b58dd99b954a6de684d7219c2adbaaf13959dfe"/>
+		<Metadata name="CommonForm.ЭмуляторKSOFT_ПредварительныйЧек.Form" id="e1042e8c-1363-4fbf-a088-44450b71386d.0" configVersion="1fa6075f501cb3285ec98c1ea8052733a8140f26"/>
+		<Metadata name="CommonModule.KSOFT_ОбщегоНазначения" id="3b033839-0608-4966-8e3d-20d1135fce61" configVersion="765243bde025a93b619e5cd8a39b9d7e3f18dc7a"/>
+		<Metadata name="CommonModule.KSOFT_ОбщегоНазначения.Module" id="3b033839-0608-4966-8e3d-20d1135fce61.0" configVersion="51b6202b1cf1e80c0327aa5360fdf5be557e2bca"/>
+		<Metadata name="CommonModule.KSOFT_ОбщегоНазначенияКлиент" id="77b2143c-9312-4dd5-aa70-a010b0b58bab" configVersion="a1d0937548edfb03816018be25bf42d2851dadc5"/>
+		<Metadata name="CommonModule.KSOFT_ОбщегоНазначенияКлиент.Module" id="77b2143c-9312-4dd5-aa70-a010b0b58bab.0" configVersion="60647bcea3ed39fdfdd071c8cc021f0e53266439"/>
+		<Metadata name="CommonModule.KSOFT_ФормированиеЧека" id="1f31fbef-83a7-4263-a5d0-b108c276c5f6" configVersion="726b9bd8150669ad05f3ffa4c84476c318f8a3eb"/>
+		<Metadata name="CommonModule.KSOFT_ФормированиеЧека.Module" id="1f31fbef-83a7-4263-a5d0-b108c276c5f6.0" configVersion="773edbd91777e47ef23aef20264fb59611dd2f12"/>
+		<Metadata name="CommonModule.KSOFT_Штрихкодирование" id="7b3fd8af-f284-42c7-bbe0-35064041f3f3" configVersion="91a59d04349de7f24461c8c2903c7592aaf95ffc"/>
+		<Metadata name="CommonModule.KSOFT_Штрихкодирование.Module" id="7b3fd8af-f284-42c7-bbe0-35064041f3f3.0" configVersion="d5c8eaa00acbf81f67a76717539bd90727aa03ef"/>
+		<Metadata name="CommonModule.МенеджерОборудованияКлиент" id="3eb4165b-732b-40c8-ad97-7e49fc70026a" configVersion="c22461242b036a8e2de370c2dd585e7d5125da63"/>
+		<Metadata name="CommonModule.МенеджерОборудованияКлиент.Module" id="3eb4165b-732b-40c8-ad97-7e49fc70026a.0" configVersion="4c7c256bd243300cf511fe0ef3c2a8c3c7a78c78"/>
+		<Metadata name="CommonModule.ПодключаемоеОборудованиеЭмуляторККТКлиент" id="071690e0-4964-4c98-ac6e-76debc443d42" configVersion="7234c43f0d32a43c8c80b923833f37454a7214df"/>
+		<Metadata name="CommonModule.ПодключаемоеОборудованиеЭмуляторККТКлиент.Module" id="071690e0-4964-4c98-ac6e-76debc443d42.0" configVersion="ccc661923b93dd9caf999f88a6c84c1b6d08215e"/>
+		<Metadata name="CommonTemplate.НеФискальныйЧек" id="93ea50e7-b367-479d-8d6b-ca5011d364e0" configVersion="55a013a59f21e43e4588224699fe6e2fb59657ca"/>
+		<Metadata name="CommonTemplate.НеФискальныйЧек.Template" id="93ea50e7-b367-479d-8d6b-ca5011d364e0.0" configVersion="3d8795eb453b79f34306878f4acf6954e68284ba"/>
+		<Metadata name="CommonTemplate.ПараметрыДрайвера" id="077ef9cd-aecf-4332-9637-13ebec630fe0" configVersion="74f4b46390e81269b9390b8e1cab52da3393641b"/>
+		<Metadata name="CommonTemplate.ПараметрыДрайвера.Template" id="077ef9cd-aecf-4332-9637-13ebec630fe0.0" configVersion="7ede35b6788bfed12c821bcc619365773c1c5803"/>
+		<Metadata name="CommonTemplate.ЧекПокупателя" id="180f5796-505c-426b-96c6-51f41927eedc" configVersion="a4d0451a4d762068b06b644ab26d2549ac830729"/>
+		<Metadata name="CommonTemplate.ЧекПокупателя.Template" id="180f5796-505c-426b-96c6-51f41927eedc.0" configVersion="ef172e53c336bd7f59edf781f1b7762f81bd4b05"/>
+		<Metadata name="Configuration.KSOFT_ЭмуляторККТ" id="525cfd14-c53a-4822-8e57-461b033db387" configVersion="9b3ba0d7859c5e46d18b1ff8cfa9de57f0b7b91d"/>
+		<Metadata name="Language.Русский" id="3d3f1208-99af-4ad7-85f3-01ce867e79a4" configVersion="33497c77b7bd6e2960cfb2eea69af6a2f2ee7ea8"/>
+		<Metadata name="Role.ЭмуляторKSOFT_ОсновнаяРоль" id="5d42b4f9-8eeb-4108-a025-ec3f32b96d99" configVersion="c0cba39f9e31718e9b4fd55ad57eaa9cc47b35de"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
