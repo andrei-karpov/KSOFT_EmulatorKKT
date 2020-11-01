@@ -61,17 +61,17 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>ЭмуляторKSOFT_ОсновнаяРоль</Role>
-			<CommonTemplate>ЧекПокупателя</CommonTemplate>
-			<CommonTemplate>ПараметрыДрайвера</CommonTemplate>
-			<CommonTemplate>НеФискальныйЧек</CommonTemplate>
-			<CommonModule>ПодключаемоеОборудованиеЭмуляторККТКлиент</CommonModule>
+			<CommonTemplate>ЭмуляторKSOFT_ЧекПокупателя</CommonTemplate>
+			<CommonTemplate>ЭмуляторKSOFT_ПараметрыДрайвера</CommonTemplate>
+			<CommonTemplate>ЭмуляторKSOFT_НеФискальныйЧек</CommonTemplate>
+			<CommonModule>ЭмуляторKSOFT_ПодключаемоеОборудованиеКлиент</CommonModule>
 			<CommonModule>МенеджерОборудованияКлиент</CommonModule>
-			<CommonModule>KSOFT_ОбщегоНазначения</CommonModule>
-			<CommonModule>KSOFT_Штрихкодирование</CommonModule>
-			<CommonModule>KSOFT_ФормированиеЧека</CommonModule>
-			<CommonModule>KSOFT_ОбщегоНазначенияКлиент</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_ОбщегоНазначения</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_Штрихкодирование</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_ФормированиеЧека</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_ОбщегоНазначенияКлиент</CommonModule>
 			<CommonForm>ЭмуляторKSOFT_ДополнительныйЧек</CommonForm>
-			<CommonForm>ЭмуляторKSOFT_ПредварительныйЧек</CommonForm>
+			<CommonForm>ЭмуляторKSOFT_Чек</CommonForm>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
