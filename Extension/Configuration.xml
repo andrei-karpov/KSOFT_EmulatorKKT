@@ -49,9 +49,8 @@
 			<DefaultRoles>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ЭмуляторKSOFT_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
-			<Vendor/>
-			<Version/>
-			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<Vendor>KSOFT</Vendor>
+			<Version>1.0.1</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -67,9 +66,7 @@
 			<CommonModule>ЭмуляторKSOFT_ПодключаемоеОборудованиеКлиент</CommonModule>
 			<CommonModule>МенеджерОборудованияКлиент</CommonModule>
 			<CommonModule>ЭмуляторKSOFT_ОбщегоНазначения</CommonModule>
-			<CommonModule>ЭмуляторKSOFT_Штрихкодирование</CommonModule>
 			<CommonModule>ЭмуляторKSOFT_ФормированиеЧека</CommonModule>
-			<CommonModule>ЭмуляторKSOFT_ОбщегоНазначенияКлиент</CommonModule>
 			<CommonForm>ЭмуляторKSOFT_ДополнительныйЧек</CommonForm>
 			<CommonForm>ЭмуляторKSOFT_Чек</CommonForm>
 		</ChildObjects>
