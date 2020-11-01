@@ -4944,12 +4944,6 @@ QR кода</v8:content>
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>89</index>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
-	<rowsItem>
 		<index>90</index>
 		<row>
 			<formatIndex>73</formatIndex>
@@ -5024,12 +5018,6 @@ QR кода</v8:content>
 					<parameter>ДополнительныйРеквизит</parameter>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>92</index>
-		<row>
-			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
@@ -5108,12 +5096,6 @@ QR кода</v8:content>
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>96</index>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
-	<rowsItem>
 		<index>97</index>
 		<row>
 			<formatIndex>162</formatIndex>
@@ -5124,12 +5106,6 @@ QR кода</v8:content>
 					<parameter>Агент</parameter>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>98</index>
-		<row>
-			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
@@ -5155,12 +5131,6 @@ QR кода</v8:content>
 					<parameter>Текст</parameter>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>100</index>
-		<row>
-			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
@@ -5496,12 +5466,6 @@ QR кода</v8:content>
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>105</index>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
-	<rowsItem>
 		<index>106</index>
 		<row>
 			<formatIndex>176</formatIndex>
@@ -5527,12 +5491,6 @@ QR кода</v8:content>
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>107</index>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
-	<rowsItem>
 		<index>108</index>
 		<row>
 			<formatIndex>97</formatIndex>
@@ -5543,12 +5501,6 @@ QR кода</v8:content>
 					<parameter>Агент</parameter>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>109</index>
-		<row>
-			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
@@ -5652,12 +5604,6 @@ QR кода</v8:content>
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>115</index>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
-	<rowsItem>
 		<index>116</index>
 		<row>
 			<formatIndex>187</formatIndex>
@@ -5671,12 +5617,6 @@ QR кода</v8:content>
 					<f>28</f>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>117</index>
-		<row>
-			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
@@ -5759,12 +5699,6 @@ QR кода</v8:content>
 					<parameter>ДополнительныйРеквизит</parameter>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>120</index>
-		<row>
-			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
