@@ -45,11 +45,10 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<Vendor/>
-			<Version/>
+			<Vendor>KSOFT</Vendor>
+			<Version>1.0.0.6</Version>
 		</Properties>
 		<ChildObjects>
-			<Language>Русский</Language>
 			<CommonTemplate>ЭмуляторKSOFT_ЧекПокупателя</CommonTemplate>
 			<CommonTemplate>ЭмуляторKSOFT_ПараметрыДрайвера</CommonTemplate>
 			<CommonTemplate>ЭмуляторKSOFT_НеФискальныйЧек</CommonTemplate>
