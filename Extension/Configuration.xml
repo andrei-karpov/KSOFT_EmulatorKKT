@@ -53,9 +53,10 @@
 			<CommonTemplate>ЭмуляторKSOFT_ПараметрыДрайвера</CommonTemplate>
 			<CommonTemplate>ЭмуляторKSOFT_НеФискальныйЧек</CommonTemplate>
 			<CommonModule>ЭмуляторKSOFT_ПодключаемоеОборудованиеКлиент</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_ПодключаемоеОборудованиеВебКлиент</CommonModule>
 			<CommonModule>ЭмуляторKSOFT_ОбщегоНазначения</CommonModule>
 			<CommonModule>ЭмуляторKSOFT_ФормированиеЧека</CommonModule>
-			<CommonModule>МенеджерОборудованияКлиент</CommonModule>
+			<CommonModule>МенеджерОборудованияКлиент</CommonModule>	
 			<CommonForm>ЭмуляторKSOFT_ДополнительныйЧек</CommonForm>
 			<CommonForm>ЭмуляторKSOFT_Чек</CommonForm>
 		</ChildObjects>
