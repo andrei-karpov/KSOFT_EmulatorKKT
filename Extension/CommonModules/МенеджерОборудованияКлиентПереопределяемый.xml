@@ -4,7 +4,6 @@
 		<Properties>
 			<Name>МенеджерОборудованияКлиентПереопределяемый</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<ExtendedConfigurationObject>013db9cd-9bc9-46ea-9bf9-e9275603d6d9</ExtendedConfigurationObject>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>
 			<Server>false</Server>

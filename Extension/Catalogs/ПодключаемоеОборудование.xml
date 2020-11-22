@@ -25,9 +25,7 @@
 		</InternalInfo>
 		<Properties>
 			<Name>ПодключаемоеОборудование</Name>
-			<Comment/>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<ExtendedConfigurationObject>be7d6af6-dd09-4fdf-9a4e-595331854f78</ExtendedConfigurationObject>
 		</Properties>
 		<ChildObjects/>
 	</Catalog>
