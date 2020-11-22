@@ -23,15 +23,15 @@
 
 2. В справочник "Драйверы оборудования" добавьте оборудование "Эмулятор" из архива [KSOFT_Emulator.zip](KSOFT_Emulator.zip)
 
-    ![Добавление оборудования](media\add_equipment.gif)
+    ![Добавление оборудования](media/add_equipment.gif)
 
 3. Добавьте новую строку в список [подключенного оборудования](https://its.1c.ru/db/kkt#content:84:hdoc) на текущем рабочем месте.
 
 4. Перезапустите 1С
 5. Настройте параметры подключенного оборудования
 
-    ![Настройка эмулятора](media\emulator_settings.png)
+    ![Настройка эмулятора](media/emulator_settings.png)
 
 6. Напечайте чек.
 
-   ![Печать чека](media\print_check.gif)
+   ![Печать чека](media/print_check.gif)
