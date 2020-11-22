@@ -55,9 +55,13 @@
 			<CommonModule>ЭмуляторKSOFT_ОбщегоНазначения</CommonModule>
 			<CommonModule>ЭмуляторKSOFT_ФормированиеЧека</CommonModule>
 			<CommonModule>МенеджерОборудованияКлиент</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_ПодключаемоеОборудованиеУниверсальныйДрайверКлиент</CommonModule>
+			<CommonModule>МенеджерОборудованияКлиентПереопределяемый</CommonModule>
+			<CommonModule>ЭмуляторKSOFT_ПодключаемоеОборудование</CommonModule>
 			<CommonForm>ЭмуляторKSOFT_ДополнительныйЧек</CommonForm>
 			<CommonForm>ЭмуляторKSOFT_Чек</CommonForm>
 			<CommonForm>ЭмуляторKSOFT_ОбъектДрайвера</CommonForm>
+			<Catalog>ПодключаемоеОборудование</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
