@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/github/tag/andrei-karpov/KSOFT_EmulatorKKT.svg?label=Last%20release&a)](https://github.com/andrei-karpov/KSOFT_EmulatorKKT/releases)
+
 # Эмулятор контрольно-кассовой техники для управляемых форм 1С с поддержкой ревизии 3002 #
 
 Эмулятор позволяет печатать чеки, а также выводить их на экран в программе 1С, без необходимости физического подключения фискальных регистраторов.
