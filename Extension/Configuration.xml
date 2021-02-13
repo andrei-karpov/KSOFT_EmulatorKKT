@@ -46,7 +46,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>KSOFT</Vendor>
-			<Version>1.0.0.6</Version>
+			<Version>1.0.0.7</Version>
 		</Properties>
 		<ChildObjects>
 			<CommonTemplate>ЭмуляторKSOFT_ЧекПокупателя</CommonTemplate>
